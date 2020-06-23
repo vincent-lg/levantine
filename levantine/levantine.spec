@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['talismud.py'],
+a = Analysis(['levantine.py'],
              pathex=['.'],
              binaries=[],
              datas=[],
@@ -24,7 +24,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,
           [],
-          name='talismud',
+          name='levantine',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
