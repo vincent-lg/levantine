@@ -11,7 +11,7 @@ in your source tree.
 
 # 1. Game name and general settings
 # The game name, probably public.
-GAME_NAME = "TalisMUD"
+GAME_NAME = "Levantine"
 
 # The game version, can be shown in the Message-Of-The-Day screen if you wish.
 GAME_VERSION = "0.0.1"
@@ -77,7 +77,7 @@ WEB_PORT = 4001
 MIN_USERNAME = 4
 
 # Forbidden usernames
-FORBIDDEN_USERNAMES = ("talismud", "test", "guest", "new")
+FORBIDDEN_USERNAMES = ("talismud", "test", "guest", "new", "levantine")
 
 # Minimum length of password (in characters)
 MIN_PASSWORD = 6
