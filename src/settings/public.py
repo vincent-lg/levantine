@@ -94,4 +94,4 @@ RETURN_ROOM = "begin"
 # 5. Display settings
 # Preferred encoding for new sessions without a configuration.
 # (Individual clients/players can change that setting for their connection.)
-DEFAULT_ENCODING = "utf-8"
+DEFAULT_ENCODING = "ISO-8859-15"
